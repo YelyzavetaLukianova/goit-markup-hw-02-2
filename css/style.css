@@ -211,7 +211,7 @@ body {
 
 .span-logo:hover,
 .span-logo:focus{
-    color: var(--black-background-text-color);
+    color: #757575;
 }
 
 
